@@ -1,4 +1,3 @@
-<img src="https://github.com/debarghyakundu123/debarghyakundu123/raw/main/DEBARGHYA%20KUNDU.png" alt="Debarghya Kundu" width="1200">
 
 <h1 align="center">Hi 👋, I'm Debarghya kundu</h1>
 <h3 align="center">A fervent tech enthusiast based in India, fueled by a relentless drive for innovation and creativity.</h3>
